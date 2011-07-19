@@ -2,7 +2,7 @@ class CartsController < ApplicationController
   # GET /carts
   # GET /carts.xml
   def index
-    @carts = Cart.all   aaaaaaaaaaaaaaaaaaaaaaaa
+    @carts = Cart.all
 
     respond_to do |format|
       format.html # index.html.erb
