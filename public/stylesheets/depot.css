@@ -5,6 +5,8 @@
         border-bottom: 3px dotted #77d;
 }
 
+
+
 /* Styles for products/index */
 
 #product_list table {
@@ -65,12 +67,18 @@
   text-align: center;
 }
 
+
+
 #banner img {
   float: left;
 }
 
 #columns {
   background: #141;
+}
+
+#side input {
+  width: 90px;
 }
 
 #main {
@@ -93,6 +101,7 @@
   color: #bfb;
   font-size: small;
 }
+
 /* An entry in the store catalog */
 #store .entry form, #store .entry form div {
 	display: inline;
